@@ -5,4 +5,4 @@ The script is great for practicing reading chinese characters
 
 # Usage
 
-The script is intended to be used with [Tampermonkey](https://www.tampermonkey.net). Simple create a new script and paste [script.js](script.js) into it.
+The script is intended to be used with [Tampermonkey](https://www.tampermonkey.net). Simply create a new script and paste [script.js](script.js) into it.
